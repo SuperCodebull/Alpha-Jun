@@ -132,3 +132,4 @@ plot_x = np.arange(len(draw_data))
 plot_y = np.array(draw_data)
 plt.plot(plot_x, plot_y)
 plt.show()
+#测试下github在线模式~
